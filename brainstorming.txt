@@ -1,11 +1,11 @@
 1) What selector are you going to use for the click event on the button?
-
+you use $("button")
 
 2) What selector are you going to use to add the posts to the page?
-
+You use $("#wall")
 
 3) What selector are you going to use to get the user's input in the click event handler?
-
+$("#message")
 
 4) What function are you going to use to get the user's input in the click event handler?
 
